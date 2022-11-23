@@ -2,7 +2,7 @@
         .App {
             width: 40%;
             margin: 5vh auto;
-            box-shadow: 0 10px 40px -14px rgba(0, 0, 0, 0.55);
+            box-shadow: 0 30px 40px -14px rgba(0, 0, 0, 0.55);
             font-family: "Raleway", sans-serif;
             color: white;
             border-radius: 10px;
